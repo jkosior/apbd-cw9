@@ -1,0 +1,5 @@
+/Users/jakubkosior/Projects/LinqApp/LinqApp/obj/Debug/netcoreapp3.1/LinqApp.csprojAssemblyReference.cache
+/Users/jakubkosior/Projects/LinqApp/LinqApp/obj/Debug/netcoreapp3.1/LinqApp.csproj.CoreCompileInputs.cache
+/Users/jakubkosior/Projects/LinqApp/LinqApp/obj/Debug/netcoreapp3.1/LinqApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/jakubkosior/Projects/LinqApp/LinqApp/obj/Debug/netcoreapp3.1/LinqApp.AssemblyInfoInputs.cache
+/Users/jakubkosior/Projects/LinqApp/LinqApp/obj/Debug/netcoreapp3.1/LinqApp.AssemblyInfo.cs

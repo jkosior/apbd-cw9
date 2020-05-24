@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C2CCD032-A832-408D-87BA-18272F027EC6}|Default">
+  <MonoDevelop.Ide.ItemProperties.LinqApp FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinqApp/Emp.cs">
+    <Files>
+      <File FileName="LinqApp/EmptyClass.cs" Line="9" Column="24" />
+      <File FileName="LinqApp/Samples.cs" Line="20" Column="43" />
+      <File FileName="LinqApp/Dept.cs" Line="1" Column="1" />
+      <File FileName="LinqApp/Emp.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LinqApp" expanded="True">
+            <Node name="LinqApp" expanded="True">
+              <Node name="Emp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
